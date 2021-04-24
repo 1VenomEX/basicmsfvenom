@@ -9,9 +9,9 @@ pip install pyfiglet
 
 git clone https://github.com/1VenomEX/basicmsfvenom.git
 
-cd kolay-kullanim-msfvenom
+cd basicmsfvenom
 
-python3 MSFVenom.py
+python3 basicmsfvenom.py
 
 #######################################################
 
