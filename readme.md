@@ -24,3 +24,4 @@ python3 MSFVenom.py
 Not: iteration default '5'.
 
 Acemice yazılmış bir araçtır her ne kadar kolay kullanımıda olsa msfvenomu kendi halinde kullanmak en doğrusudur.
+
